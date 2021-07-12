@@ -71,7 +71,7 @@ function init() {
     .then(answer => {
       if (answer) {
         generateMarkdown(answer);
-        writeToFile("./README.md", generateMarkdown(answer));
+        writeToFile("./utils/README.md", generateMarkdown(answer));
       }
       console.log(answer)
       console.log('Successfully wrote to README.md!');
