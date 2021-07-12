@@ -66,6 +66,7 @@ As a developer, the user wants a README generator, so that they can quickly crea
 
 ## The recording of the working program
 
+<img src="Develop/assets/Readme_Generator.gif" alt="refresh page" height = 300 width= 500 />
 
 ## Github Repository URL
 https://github.com/sindhu-sp/Readme-Generator
